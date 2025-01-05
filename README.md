@@ -1,29 +1,27 @@
 [![MasterHead](https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif)](https://github.com/raouffilali)
 <h1 align="center">Hi 👋, I'm Abderraouf FILALI</h1>
-<h3 align="center">A passionate Web developer from DZ</h3>
+<h3 align="center">Software Engineer | Web Developer from DZ</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raouffilali&label=Profile%20views&color=0e75b6&style=flat" alt="raouffilali" /> </p>
 
 <p align="left"> <a href="https://twitter.com/raouffilali3" target="blank"><img src="https://img.shields.io/twitter/follow/raouffilali3?logo=twitter&style=for-the-badge" alt="raouffilali3" /></a> </p>
 
-- 🔭 I’m currently working on [" Academia+ "Startup Project](https://abderraouf-filali-admin@bitbucket.org/abderraouf-filali/finale-project.git)
+- 🔭 I’m currently working on [" Esaboura "E-learning platform](https://esaboura.com)
 
-- 🌱 I’m currently learning **Containerization, AngularJs**
+- 🌱 I’m currently learning **Rust, Angular**
 
 - 👯 I’m looking to collaborate on [" AcadConnect+ "Community forum](https://github.com/raouffilali/AcadConnect-Forum)
 
 - 🤝 I’m looking for help with [" AcademiaXpress "Project(App Review)](https://github.com/raouffilali/EduEchoes-Blog)
 
-- 👨‍💻 All of my projects are available at [https://rb.gy/qxi3u](https://rb.gy/qxi3u)
-
-- 📝 I regularly write articles on [https://rb.gy/9bl2o](https://rb.gy/9bl2o)
+- 👨‍💻 All of my projects are available at [www.abderraouf-filali.tech](https://www.abderraouf-filali.tech/)
 
 - 💬 Ask me about **react, Nextjs, Nodejs, Django &...**
 
-- 📫 How to reach me **mr.abderraouf.filali@gmail.com**
+- 📫 How to reach me **contact@abderraouf-filali.tech**
 
-- 📄 Know about my experiences [https://rb.gy/97n2e](https://rb.gy/97n2e)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1f9L2vyFtVUq6LgnsoLEE2uV8rd-TiXdG/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am a Late-Night Innovator**
 
@@ -43,6 +41,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raouffilali&show_icons=true&locale=en&layout=compact" alt="raouffilali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raouffilali&show_icons=true&locale=en" alt="raouffilali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raouffilali&" alt="raouffilali" /></p>
