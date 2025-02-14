@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [" AcademiaXpress "Project(App Review)](https://github.com/raouffilali/EduEchoes-Blog)
 
-- 👨‍💻 All of my projects are available at [www.abderraouf-filali.tech](https://www.abderraouf-filali.tech/)
+- 👨‍💻 All of my projects are available at [www.abderraouf-filali.online](https://www.abderraouf-filali.online/)
 
 - 💬 Ask me about **react, Nextjs, Nodejs, Django &...**
 
