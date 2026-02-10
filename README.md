@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with [" AcademiaXpress "Project(App Review)](https://github.com/raouffilali/EduEchoes-Blog)
 
-- 👨‍💻 All of my projects are available at [www.abderraouf-filali.online](https://www.abderraouf-filali.online/)
+- 👨‍💻 All of my projects are available at [www.raouftechai.site](https://www.raouftechai.site/)
 
 - 💬 Ask me about **react, Nextjs, Nodejs, Django &...**
 
 - 📫 How to reach me **contact@abderraouf-filali.online**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1f9L2vyFtVUq6LgnsoLEE2uV8rd-TiXdG/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://cdn.sanity.io/files/zcriun3p/production/4ae098dab56348b6acba3772b8ae7a8cbcecb6e2.pdf)
 
 - ⚡ Fun fact **I think i am a Late-Night Innovator**
 
@@ -129,8 +129,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://avatars.githubusercontent.com/u/46824851?v=4" alt="raouffilali" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raouffilali&" alt="raouffilali" /></p>
